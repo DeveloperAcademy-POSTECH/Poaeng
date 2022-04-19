@@ -1,6 +1,6 @@
 # Poaeng
 
-MC1 포앵팀의 코드입니다.
+MC1 1팀 Poeng(포앵)팀의 프로젝트입니다. 
 
 # :iphone: Povida
 
@@ -16,7 +16,7 @@ A brief description of what this project does and who it's for
 
 ## :people_hugging: Authors
 
-- [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/)
+- [@Ken (Taehwan Kim)](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/)
 
 
 ## :framed_picture: Demo
