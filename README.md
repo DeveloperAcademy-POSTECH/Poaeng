@@ -1,10 +1,6 @@
-# Poaeng
-
-MC1 1팀 Poeng(포앵)팀의 프로젝트입니다. 
-
 # :iphone: Povida
 
-A brief description of what this project does and who it's for
+MC1 1팀 Poeng(포앵)팀의 프로젝트입니다. 저희 서비스의 이름은 포비다이며 포항에서 사람 사이를 누비다 라는 뜻을 가지고 있습니다. 이름과 같이 저희 서비스는 사람과 사람, 구체적으로는 구직자와 현업자를 연결하는 앱입니다. 
 
 ## :pushpin: Features
 
@@ -16,7 +12,7 @@ A brief description of what this project does and who it's for
 
 ## :people_hugging: Authors
 
-- [@Ken (Taehwan Kim)](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/)
+- [@Ken (Taehwan Kim)](https://www.github.com/obtusa07) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/)
 
 
 ## :framed_picture: Demo
