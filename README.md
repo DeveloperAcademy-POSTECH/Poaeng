@@ -12,7 +12,7 @@ MC1 1팀 Poeng(포앵)팀의 프로젝트입니다. 저희 서비스의 이름�
 
 ## :people_hugging: Authors
 
-- [@Ken (Taehwan Kim)](https://www.github.com/obtusa07) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/) | [@YourName](https://www.github.com/)
+- [@Ken (Taehwan Kim)](https://www.github.com/obtusa07) | [@Will (Sungsoo Park)](https://github.com/sunshiningsoo) | [@Hiro(Youngwoong Choi)](https://github.com/hardworking-nomad) | [@Wonny ()](https://www.github.com/) | [@Livvy ()](https://www.github.com/) | [@Neoul](https://www.github.com/)
 
 
 ## :framed_picture: Demo
